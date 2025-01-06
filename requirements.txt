@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+pandas 
+numpy
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain-groq
+langchain-chroma
+mysql-connector-python
+SQLAlchemy
+validators==0.28.1
+youtube_transcript_api
